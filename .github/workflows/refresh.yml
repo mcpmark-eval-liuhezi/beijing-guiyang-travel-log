@@ -1,0 +1,11 @@
+name: Refresh
+
+on:
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Echo message
+        run: echo "Travel log refreshed — itinerary for the Beijing to Guiyang trip is up to date."
