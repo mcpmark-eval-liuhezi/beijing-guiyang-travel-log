@@ -1,8 +1,8 @@
 # Beijing-Guiyang Trip Itinerary (北京 -> 贵阳)
 
 **Traveler:** Hezi Liu
-**Date:** 2026-11-13 (day after tomorrow, resolved against the rail booking service's current date of 2026-11-11)
-**Route:** Beijing -> Guiyang (direct high-speed G trains only, departing after 07:00)
+**Date:** 2026-11-13 (the day after tomorrow, resolved against the rail booking service's current date of 2026-11-11)
+**Route:** Beijing -> Guiyang — direct high-speed G trains only, departing after 07:00
 
 ## Recommended train
 
